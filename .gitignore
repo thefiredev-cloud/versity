@@ -1,0 +1,17 @@
+node_modules/
+.pnp
+dist/
+build/
+out/
+.next/
+.env
+.env.local
+.env.*.local
+!.env.example
+logs/
+*.log
+coverage/
+.DS_Store
+*.tsbuildinfo
+uploads/
+tmp/
